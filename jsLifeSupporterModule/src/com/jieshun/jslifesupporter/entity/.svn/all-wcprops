@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity
+END
+ServicePic.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/ServicePic.java
+END
+SaleDetailInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/SaleDetailInfo.java
+END
+MediaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/MediaInfo.java
+END
+PrivilegeTotalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/PrivilegeTotalInfo.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/User.java
+END
+ServiceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/ServiceInfo.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/VersionInfo.java
+END
+SalePlanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/SalePlanInfo.java
+END
+ParkInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/ParkInfo.java
+END
+SortModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/SortModel.java
+END
+PictureInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/entity/PictureInfo.java
+END

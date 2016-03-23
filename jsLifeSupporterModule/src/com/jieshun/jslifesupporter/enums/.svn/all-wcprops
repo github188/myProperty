@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums
+END
+BizTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/BizTypeEnum.java
+END
+VersionTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/VersionTypeEnum.java
+END
+MobileModelsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/MobileModelsEnum.java
+END
+EventEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/EventEnum.java
+END
+UserTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/UserTypeEnum.java
+END
+OpinionTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/OpinionTypeEnum.java
+END
+DiscountTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/DiscountTypeEnum.java
+END
+ServiceTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 239
+/WWKF/!svn/ver/6418/JSRJ2003%E6%8D%B7%E7%94%9F%E6%B4%BBAPP%E5%95%86%E9%93%BA%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E6%BA%90%E4%BB%A3%E7%A0%81/Android/branches/v1.0.9/JSSupporterModuleRebuild/src/com/jieshun/jslifesupporter/enums/ServiceTypeEnum.java
+END
